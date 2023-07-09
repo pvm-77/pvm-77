@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="/user.png" alt="pvm-77" style="width: 300px; border-radius: 8px;">
 
 ![profile](./user.png)
 
