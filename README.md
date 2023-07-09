@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![profile](./programmer.jpg)
+![profile](./user.png)
 
 # Hello, I am Sarfaraz Hussain 👋
 
