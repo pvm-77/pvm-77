@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="center">
+  <img src="/user.png" alt="pvm-77" style="display: block; margin-left: auto; margin-right: auto; width: 250px; border-radius: 8px;">
+</p>
 <img src="/user.png" alt="pvm-77" style="width: 300px; border-radius: 8px;">
 
 ![profile](./user.png)
