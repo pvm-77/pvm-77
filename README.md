@@ -69,7 +69,13 @@ I'm a MERN (MongoDB, Express.js, React.js, Node.js) developer passionate about b
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-📫 How to reach me:
+## 📊 GitHub Stats and Commit History
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvm-77&show_icons=true&theme=radical)
+
+![Your Name's Commit History](https://github-readme-streak-stats.herokuapp.com/?user=pvm-77)
+
+## 📫 How to reach me:
 - Twitter: [@sarfarz_0707](https://twitter.com/sarfaraz_0707)
 - LinkedIn: [Sarfaraz Hussain](https://www.linkedin.com/in/sarfaraz-hussain-820033130/)
 - Website: [Hussain Sarfaraz](#)
