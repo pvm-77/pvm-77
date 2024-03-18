@@ -6,22 +6,17 @@
   <img src="/user.png" alt="pvm-77" style="display: block; margin-left: auto; margin-right: auto; width: 220px; border-radius: 8px;">
 </p>
 
-I'm a MERN (MongoDB, Express.js, React.js, Node.js) developer passionate about building web applications.
+I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) developer specializing in building web applications.
 
-🔭 I’m currently working on ...
-- Developing a web-based resource[audio,video,mp3......] management application using the MERN stack.
+🔭 Currently Working On: Developing a web-based resource management application utilizing the MERN stack. This application will handle various types of resources such as audio, video, and MP3 files.
 
-🌱 I’m currently learning ...
-- Exploring advanced React.js concepts and working with TypeScript.
+🌱 Currently Learning: I'm diving deeper into advanced React.js concepts and sharpening my skills with TypeScript.
 
-👥 I’m looking to collaborate on ...
-- Exciting web development projects, especially those involving React.js or Node.js.
+👥 Seeking Collaboration On: I'm eager to collaborate on exciting web development projects, particularly those involving React.js or Node.js.
 
-🤔 I’m looking for help with ...
-- Integrating GraphQL into my MERN stack projects and understanding serverless architectures.
+🤔 Seeking Help With: I'm interested in integrating GraphQL into my MERN stack projects and gaining a better understanding of serverless architectures.
 
-💬 Ask me about ...
-- Anything related to web development, MERN stack, or JavaScript.
+💬 Ask Me About: Feel free to ask me anything related to web development, the MERN stack, or JavaScript.
 ## 💻 Tech Stack
 
 ### Frameworks,platforms and libraries
