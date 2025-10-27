@@ -5,18 +5,11 @@
 <p align="center">
   <img src="/user.png" alt="pvm-77" style="display: block; margin-left: auto; margin-right: auto; width: 220px; border-radius: 8px;">
 </p>
+I'm a Full Stack Developer with 4+ years of experience specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js).
+Recently exploring React Native (Expo) and TypeScript to build seamless web and mobile experiences.
 
-I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) developer specializing in building web applications.
-
-🔭 Currently Working On: Developing a web-based resource management application utilizing the MERN stack. This application will handle various types of resources such as audio, video, and MP3 files.
-
-🌱 Currently Learning: I'm diving deeper into advanced React.js concepts and sharpening my skills with TypeScript.
-
-👥 Seeking Collaboration On: I'm eager to collaborate on exciting web development projects, particularly those involving React.js or Node.js.
-
-🤔 Seeking Help With: I'm interested in integrating GraphQL into my MERN stack projects and gaining a better understanding of serverless architectures.
-
-💬 Ask Me About: Feel free to ask me anything related to web development, the MERN stack, or JavaScript.
+💡 I enjoy building efficient, scalable solutions and writing clean, maintainable code.
+🚀 Always open to collaboration on interesting web or mobile projects
 ## 💻 Tech Stack
 
 ### Frameworks,platforms and libraries
