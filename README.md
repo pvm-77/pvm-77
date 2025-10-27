@@ -8,8 +8,10 @@
 I'm a Full Stack Developer with 4+ years of experience specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js).
 Recently exploring React Native (Expo) and TypeScript to build seamless web and mobile experiences.
 
-💡 I enjoy building efficient, scalable solutions and writing clean, maintainable code.
+💡 I enjoy building efficient, scalable solutions and writing clean, maintainable code. 
+
 🚀 Always open to collaboration on interesting web or mobile projects
+
 ## 💻 Tech Stack
 
 ### Frameworks,platforms and libraries
